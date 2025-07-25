@@ -1,5 +1,7 @@
 # 🚀 MEGAPACK Landing Page
 
+[🔗 Live Demo](https://merna112.github.io/Megapack/)
+
 ![Project Screenshot](./screenshot.jpeg)
 
 **MEGAPACK** is a responsive, modern, and visually appealing HTML/CSS landing page template tailored for startups, freelancers, and creative service providers.
